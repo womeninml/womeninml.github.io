@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on Women in Machine Learning</title>
-    <link>https://womeninml.github.io/about/</link>
+    <link>https://womeninml.github.io/directors/</link>
     <description>Recent content in About Us on Women in Machine Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://womeninml.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://womeninml.github.io/directors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
